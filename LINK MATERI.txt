@@ -10,5 +10,6 @@
 - 
 
 # Pemrograman Terstruktur : 
+- http://belajarpython.com/tutorial/apa-itu-python/
 - https://drive.google.com/file/d/1E4W2EnOFrAXrJu6TqZzujaUHPuoictPm/view
 - 
