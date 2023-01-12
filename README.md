@@ -17,7 +17,7 @@
 
 ##### # Algoritma Pemrograman : 
 - https://budyfriendcode.wordpress.com/2016/12/27/algoritma-pemrograman/
-- koneksi db vb6 : https://www.youtube.com/watch?v=wrlnkedTitw&ab_channel=TechTawar
+- Koneksi DB VB 6.0 : https://www.youtube.com/watch?v=wrlnkedTitw&ab_channel=TechTawar
 - Tutorial Visual Basic 6.0 : https://www.youtube.com/playlist?list=PLYMJJHENUMwyfDXLVZZkb6uJr63EMMmNz
 - Visual Basic 6.0 Tutorial : https://www.youtube.com/watch?v=Pdkqq6uqShI&list=PL9cbfM3OnKEChL3wnoeF1ttbvB59LQqqV&ab_channel=YadishareTutorial
 - 
