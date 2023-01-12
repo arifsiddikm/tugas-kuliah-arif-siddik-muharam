@@ -1,15 +1,15 @@
 # Tugas Kuliah Arif Siddik Muharam 
 
-### # Link Tugas 
-##### # Tugas Kuliah Algoritma Pemrograman : https://github.com/arifsiddikm/tugas-kuliah-algoritma-pemrograman 
-##### # Tugas Kuliah Pemrograman Terstruktur : https://github.com/arifsiddikm/tugas-kuliah-pemrograman-terstruktur
-##### # Tugas Kuliah Pengantar Teknologi Informasi : https://github.com/arifsiddikm/tugas-kuliah-pengantar-teknologi-informasi
-##### # Tugas Kuliah Software Terapan : https://github.com/arifsiddikm/tugas-kuliah-software-terapan
-##### # Tugas Kuliah Struktur Data : https://github.com/arifsiddikm/tugas-kuliah-struktur-data 
+### # Link Tugas Materi Kuliah 
+##### # Algoritma Pemrograman : https://github.com/arifsiddikm/tugas-kuliah-algoritma-pemrograman 
+##### # Pemrograman Terstruktur : https://github.com/arifsiddikm/tugas-kuliah-pemrograman-terstruktur
+##### # Pengantar Teknologi Informasi : https://github.com/arifsiddikm/tugas-kuliah-pengantar-teknologi-informasi
+##### # Software Terapan : https://github.com/arifsiddikm/tugas-kuliah-software-terapan
+##### # Struktur Data : https://github.com/arifsiddikm/tugas-kuliah-struktur-data 
 
 --- 
 
-### # Link Materi 
+### # Link Materi Materi Kuliah
 
 ##### # Struktur Data : 
 - https://www.youtube.com/playlist?list=PL3uuG4lYbnOwoWGQEFYxpxWZ5XljcrPTu
