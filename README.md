@@ -1,32 +1,14 @@
 # Tugas Kuliah Arif Siddik Muharam
 
-## Tugas Kuliah Algoritma Pemrograman Visual Basic  
+### Tugas Kuliah Algoritma Pemrograman : https://github.com/arifsiddikm/tugas-kuliah-algoritma-pemrograman
 
-How to do the Visual Basic Programming Algorithm task on your College? check this out!
+### Tugas Kuliah Struktur Data : https://github.com/arifsiddikm/tugas-kuliah-struktur-data
 
-### How to use?
+### Tugas Kuliah Pemrograman Terstruktur : https://github.com/arifsiddikm/tugas-kuliah-pemrograman-terstruktur
 
-- Download Source Code
-- Open software Visual Basic v6.0 
-- Click Open Project, choose file project what you want open, ex: Project1
-- or 
-- Just double click file Project1 on folder project
-- Run this Project
-- Enjoy!  
+### Tugas Kuliah Pengantar Teknologi Informasi : https://github.com/arifsiddikm/tugas-kuliah-pengantar-teknologi-informasi
 
----
-
-## Tugas Kuliah Struktur Data Java NetBeans
-
-How to do the Java NetBeans Data Structures task on your College? check this out!
-
-### How to use?   
-
-- Download Source Code
-- Open NetBeans, support for all version 
-- Click Open Project, choose folder what you want open
-- Test Run this Project
-- Enjoy!  
+### Tugas Kuliah Software Terapan : https://github.com/arifsiddikm/tugas-kuliah-software-terapan
 
 ---
 
